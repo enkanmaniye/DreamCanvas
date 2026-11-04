@@ -1,0 +1,465 @@
+[
+  {
+    "id": "beach-sunset",
+    "title": "Beach at sunset",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.55,
+      "y": 0.45
+    },
+    "tags": [
+      "travel",
+      "beach",
+      "summer",
+      "sunset",
+      "ocean",
+      "tropical",
+      "holiday",
+      "palm",
+      "bali",
+      "maldives",
+      "hawaii",
+      "island",
+      "vacation",
+      "warm"
+    ]
+  },
+  {
+    "id": "turquoise-lagoon",
+    "title": "Lagoon with overwater huts",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.6,
+      "y": 0.5
+    },
+    "tags": [
+      "travel",
+      "lagoon",
+      "ocean",
+      "island",
+      "maldives",
+      "tropical",
+      "calm",
+      "summer",
+      "water",
+      "luxury",
+      "beach",
+      "peaceful"
+    ]
+  },
+  {
+    "id": "mountain-dawn",
+    "title": "Mountain ridges at dawn",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "tags": [
+      "travel",
+      "mountain",
+      "adventure",
+      "hiking",
+      "nature",
+      "dawn",
+      "calm",
+      "alps",
+      "outdoors",
+      "peaceful",
+      "landscape"
+    ]
+  },
+  {
+    "id": "desert-road",
+    "title": "Open desert road",
+    "width": 1067,
+    "height": 1600,
+    "focus": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "tags": [
+      "travel",
+      "road",
+      "freedom",
+      "journey",
+      "adventure",
+      "desert",
+      "trip",
+      "open road",
+      "independence"
+    ]
+  },
+  {
+    "id": "balloon-sky",
+    "title": "Hot air balloons",
+    "width": 1200,
+    "height": 1200,
+    "focus": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "tags": [
+      "travel",
+      "balloon",
+      "dream",
+      "sky",
+      "adventure",
+      "turkey",
+      "cappadocia",
+      "freedom",
+      "wonder",
+      "sunrise"
+    ]
+  },
+  {
+    "id": "white-village",
+    "title": "White village over the sea",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.42,
+      "y": 0.5
+    },
+    "tags": [
+      "travel",
+      "greece",
+      "santorini",
+      "europe",
+      "mediterranean",
+      "sea",
+      "city break",
+      "italy",
+      "village",
+      "summer",
+      "architecture"
+    ]
+  },
+  {
+    "id": "city-dusk",
+    "title": "City skyline at dusk",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.5,
+      "y": 0.55
+    },
+    "tags": [
+      "career",
+      "city",
+      "skyline",
+      "ambition",
+      "success",
+      "business",
+      "new york",
+      "urban",
+      "work",
+      "future",
+      "leadership",
+      "finance"
+    ]
+  },
+  {
+    "id": "glass-towers",
+    "title": "Looking up at glass towers",
+    "width": 1067,
+    "height": 1600,
+    "focus": {
+      "x": 0.5,
+      "y": 0.35
+    },
+    "tags": [
+      "career",
+      "architecture",
+      "skyscraper",
+      "business",
+      "office",
+      "ambition",
+      "city",
+      "success",
+      "building",
+      "future",
+      "corporate"
+    ]
+  },
+  {
+    "id": "sunlit-desk",
+    "title": "Sunlit desk",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.5,
+      "y": 0.56
+    },
+    "tags": [
+      "career",
+      "desk",
+      "work",
+      "office",
+      "laptop",
+      "study",
+      "productivity",
+      "freelance",
+      "startup",
+      "remote",
+      "writing",
+      "focus"
+    ]
+  },
+  {
+    "id": "corner-office",
+    "title": "Office with a city view",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "tags": [
+      "career",
+      "office",
+      "promotion",
+      "leadership",
+      "ceo",
+      "business",
+      "success",
+      "professional",
+      "job",
+      "city"
+    ]
+  },
+  {
+    "id": "library-arches",
+    "title": "Library arches",
+    "width": 1067,
+    "height": 1600,
+    "focus": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "tags": [
+      "study",
+      "library",
+      "university",
+      "learning",
+      "books",
+      "education",
+      "knowledge",
+      "exam",
+      "student",
+      "degree",
+      "academic"
+    ]
+  },
+  {
+    "id": "book-stack",
+    "title": "Stack of books and a lamp",
+    "width": 1200,
+    "height": 1200,
+    "focus": {
+      "x": 0.5,
+      "y": 0.56
+    },
+    "tags": [
+      "study",
+      "books",
+      "reading",
+      "learning",
+      "education",
+      "writing",
+      "novel",
+      "language",
+      "exam",
+      "student",
+      "cozy"
+    ]
+  },
+  {
+    "id": "sun-room",
+    "title": "Quiet sun room with a mat",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.55,
+      "y": 0.6
+    },
+    "tags": [
+      "wellness",
+      "yoga",
+      "calm",
+      "health",
+      "self care",
+      "mindfulness",
+      "morning",
+      "balance",
+      "peace",
+      "meditation",
+      "fitness"
+    ]
+  },
+  {
+    "id": "forest-light",
+    "title": "Light through a forest",
+    "width": 1067,
+    "height": 1600,
+    "focus": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "tags": [
+      "wellness",
+      "nature",
+      "forest",
+      "walk",
+      "calm",
+      "green",
+      "trees",
+      "peace",
+      "hiking",
+      "mental health",
+      "outdoors"
+    ]
+  },
+  {
+    "id": "tea-window",
+    "title": "Cup of tea on a windowsill",
+    "width": 1200,
+    "height": 1200,
+    "focus": {
+      "x": 0.5,
+      "y": 0.62
+    },
+    "tags": [
+      "wellness",
+      "cozy",
+      "home",
+      "slow",
+      "morning",
+      "tea",
+      "rest",
+      "self care",
+      "comfort",
+      "autumn",
+      "quiet"
+    ]
+  },
+  {
+    "id": "paint-studio",
+    "title": "Painter’s studio",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.45,
+      "y": 0.5
+    },
+    "tags": [
+      "creative",
+      "art",
+      "painting",
+      "studio",
+      "design",
+      "artist",
+      "creativity",
+      "color",
+      "illustration",
+      "hobby",
+      "portfolio"
+    ]
+  },
+  {
+    "id": "vinyl-wall",
+    "title": "Pink wall with a record",
+    "width": 1067,
+    "height": 1600,
+    "focus": {
+      "x": 0.5,
+      "y": 0.56
+    },
+    "tags": [
+      "creative",
+      "music",
+      "vinyl",
+      "song",
+      "band",
+      "studio",
+      "retro",
+      "pink",
+      "artist",
+      "concert",
+      "album"
+    ]
+  },
+  {
+    "id": "soft-petals",
+    "title": "Soft pink petals",
+    "width": 1200,
+    "height": 1200,
+    "focus": {
+      "x": 0.48,
+      "y": 0.5
+    },
+    "tags": [
+      "soft",
+      "flower",
+      "petals",
+      "dreamy",
+      "pastel",
+      "calm",
+      "beauty",
+      "spring",
+      "wedding",
+      "love",
+      "self care",
+      "gentle"
+    ]
+  },
+  {
+    "id": "home-window",
+    "title": "Bright apartment",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.45,
+      "y": 0.6
+    },
+    "tags": [
+      "lifestyle",
+      "home",
+      "apartment",
+      "house",
+      "interior",
+      "independence",
+      "cozy",
+      "family",
+      "moving",
+      "plants",
+      "living room"
+    ]
+  },
+  {
+    "id": "night-camp",
+    "title": "Tent under the stars",
+    "width": 1600,
+    "height": 1067,
+    "focus": {
+      "x": 0.5,
+      "y": 0.6
+    },
+    "tags": [
+      "travel",
+      "night",
+      "stars",
+      "camping",
+      "adventure",
+      "nature",
+      "space",
+      "freedom",
+      "outdoors",
+      "astronomy",
+      "dream"
+    ]
+  }
+]
