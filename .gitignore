@@ -12,3 +12,4 @@ playwright-report/
 
 references/
 .env.example
+CLAUDE_BUILD_PROMPT.MD
